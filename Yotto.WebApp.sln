@@ -1,0 +1,15 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Yotto.WebApp.Core", "Yotto.WebApp.Core\Yotto.WebApp.Core.shproj", "{A8290F19-9D8C-4B19-A32F-9DBBF79A01E4}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Yotto.WebApp.Core\Yotto.WebApp.Core.projitems*{a8290f19-9d8c-4b19-a32f-9dbbf79a01e4}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
